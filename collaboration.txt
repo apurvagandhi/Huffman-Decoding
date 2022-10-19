@@ -1,0 +1,16 @@
+Apurva Gandhi
+ahgand22@g.holycross.edu
+Assignment: Project 3a and Project 3
+Date Written - Project3a: 10/20/2018
+Date Written - project 3: 10/26/2018
+Date Rewritten - Project3: 10/30/2018
+Collaboration Log: 
+
+Project 3a: Time worked on: 5:00 PM to 9:30 pm - 10/20/2018
+I worked with Nick and to figure out the testing conditions and statement from the larger file and compared the result with each other. I also had basic communication with Sarah about the starting of the code from scratch. I did not talk with anyone else other than people mentioned above. 
+
+Project3: Time worked on: 9:30 PM to 1:20AM - 10/26/2018
+I collaborated with Nick, and Justin Lombardi on this project. Justin helped with a order of statements. We were struggling with the result not being printing all the way. Justin gave us hint that it has to do with the order of the statements. Nick helped me to find an error in my code which I couldn't find it. It was in the String initialization of my target variable. I did not took any help from anyone else on this project.   
+
+Project3: Time worked on: 8:00 PM to 9:00PM - 10/30/2018
+I worked on my own to check the error of an invalid data and returns a messge to console for invalid data in the binary encoded file. 
